@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32751
     wikipedia: http://en.wikipedia.org/wiki/Andrew_Preston_Peabody
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27531#A-Manual-of-Moral-Philosophy
 gutenberg_issued: '2008-12-14'
 gutenberg_type: Text
 identifiers:
